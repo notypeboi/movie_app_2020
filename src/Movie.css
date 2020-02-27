@@ -1,0 +1,11 @@
+.movie_data {
+    background-color: #dfe6e9;
+    text-align: center;
+    justify-content: center;
+    width: 30%;
+    font-family: 'Oxygen';
+}
+
+.movie_title {
+    background-color: #b2bec3;
+}
